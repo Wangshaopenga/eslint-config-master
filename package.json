@@ -4,10 +4,10 @@
   "description": "ESLint config preset based on @antfu/eslint-config.",
   "author": "Wangshaopenga",
   "license": "MIT",
-  "homepage": "https://github.com/Wangshaopenga/eslint-config",
+  "homepage": "https://github.com/Wangshaopenga/eslint-config-master",
   "repository": "github:Wangshaopenga/eslint-config",
   "bugs": {
-    "url": "https://github.com/Wangshaopenga/eslint-config/issues"
+    "url": "https://github.com/Wangshaopenga/eslint-config-master/issues"
   },
   "keywords": [
     "eslint",
